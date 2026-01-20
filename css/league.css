@@ -34,6 +34,13 @@ header h1{
   margin:3rem auto;
   padding:0 1.5rem;
 }
+@media(max-width:700px){
+  .profile-pic{
+    width:140px;
+    height:180px;
+  }
+}
+
 .profile-pic{
   width:160px;
   height:200px;
